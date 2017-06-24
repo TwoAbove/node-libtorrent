@@ -36,7 +36,7 @@
   },
   "main": "./index.js",
   "version": "0.4.7",
-  "dependencies": { 
+  "dependencies": {
     "node-pre-gyp": "^0.6.30"
   },
   "scripts": {
@@ -58,8 +58,8 @@
   "devDependencies": {
     "node-pre-gyp-github": "^1.3.1",
     "boost-lib": "0.11.3",
-    "cmake-js": "3.3.1",
+    "cmake-js": "3.5.0",
     "adm-zip": "0.4.7",
-    "nan": "^2.4.0"
+    "nan": "2.6.2"
   }
 }
